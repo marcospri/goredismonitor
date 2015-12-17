@@ -5,7 +5,7 @@ Just a toy to have an excuse to check out termui (https://github.com/gizak/termu
 ![terminal screenshot](/screenshot.png?raw=true )
 
 
-To see fake activity try:
+To generate fake activity try:
 
     redis-benchmark -p 6379 -l
 
